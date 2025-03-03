@@ -70,6 +70,9 @@ dataset = [
     { "question": "What is federated learning?", "answer": "Federated learning is a decentralized AI training approach that keeps data local and improves privacy." },
     { "question": "How does AI affect privacy?", "answer": "AI raises privacy concerns when collecting, storing, and analyzing user data." },
     { "question": "Can AI predict the future?", "answer": "AI can make data-driven predictions but cannot foresee random events." },
+    { "question": "Who designed AI-Bot?", "answer": "AI-Bot was designed by Pradeep Yadav." },
+    { "question": "What is your name?", "answer": "AI-Bot ." },
+    { "question": "Who is the owner of AI-Bot?", "answer": "Pradeep Yadav is the owner of AI-Bot." },
     {"question": "Who painted the Mona Lisa?", "answer": "The Mona Lisa was painted by Leonardo da Vinci."}
 ]
 
