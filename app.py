@@ -569,7 +569,7 @@ dataset = [
     {"question": "Which Mahindra car has the highest ground clearance?", "answer": "The Mahindra Thar has one of the highest ground clearances at 226 mm."},
     {"question": "Does Mahindra have a luxury SUV?", "answer": "Yes, the Mahindra Alturas G4 is a luxury SUV in the Mahindra lineup."},
     {"question": "Which Mahindra SUV offers the best resale value?", "answer": "The Mahindra Scorpio and Mahindra Thar have the best resale value."},
-    {"question": "What is the price range of Mahindra SUVs?", "answer": "Mahindra SUVs range from ₹8 lakh (XUV300) to ₹35 lakh (Alturas G4)."}
+    {"question": "What is the price range of Mahindra SUVs?", "answer": "Mahindra SUVs range from ₹8 lakh (XUV300) to ₹35 lakh (Alturas G4)."},
 
     
     {"question": "What is Artificial Intelligence?", "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines."},
